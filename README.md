@@ -14,8 +14,9 @@ Join the 1st OceanDAO Town Hall, this Wed. Dec 2!
 
 https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=led33k5e9p353746vvdtplccddf06m0q@import.calendar.google.com
 
-## Expanded Zoom Details:
+## Expanded Zoom Details
 
+```
 (subject to change)
 
 Topic: OceanDAO Town Hall 
@@ -67,6 +68,7 @@ Dial by your location
 Meeting ID: 853 4820 5395
 
 Find your local number: https://us02web.zoom.us/u/kbNJCr9PxE
+```
 
 
 
