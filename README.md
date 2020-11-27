@@ -1,3 +1,5 @@
+<img src="oceandao-logo.png" width="80%">
+
 # OceanDAO Town Hall
 
 Join the OceanDAO community Town Hall. Here you can ask any questions, share proposal feedback, and collaborate with the OceanDAO community in an open format. 
