@@ -4,15 +4,17 @@ Join the OceanDAO community Town Hall. Here you can ask any questions, share pro
 
 Join the 1st OceanDAO Town Hall, this Wed. Dec 2!
 
-Link: 
+## Zoom Link
 
  https://us02web.zoom.us/j/85348205395 
  
- Expanded Zoom Details:
+## Calendar
+ https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=led33k5e9p353746vvdtplccddf06m0q@import.calendar.google.com
+
+## Expanded Zoom Details:
 
 (subject to change)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Topic: OceanDAO Town Hall 
 
