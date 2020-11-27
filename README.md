@@ -9,30 +9,26 @@ Join the 1st OceanDAO Town Hall, this Wed. Dec 2!
  https://us02web.zoom.us/j/85348205395 
  
 ## Calendar
- https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=led33k5e9p353746vvdtplccddf06m0q@import.calendar.google.com
+
+https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=led33k5e9p353746vvdtplccddf06m0q@import.calendar.google.com
 
 ## Expanded Zoom Details:
 
 (subject to change)
 
-
 Topic: OceanDAO Town Hall 
 
 Time: Dec 2, 2020 04:00 PM Greenwich Mean Time
 
-        Every week on Wed, until Nov 10, 2021, 50 occurrence(s)
+Every week on Wed, until Nov 10, 2021, 50 occurrence(s)
 
 Please download and import the following iCalendar (.ics) files to your calendar system.
 
 Weekly: https://us02web.zoom.us/meeting/tZEuc-Gqrj4pE9GwdlbCyrRaC8PgzFLA0hte/ics?icsToken=98tyKuGtrT8iGNSQsxCCRpwMA4-gWerziCVej_p6ixvpAQNKcDH3FbpyNahZPPmA
 
-
-
 Join Zoom Meeting
 
 https://us02web.zoom.us/j/85348205395
-
-
 
 Meeting ID: 853 4820 5395
 
